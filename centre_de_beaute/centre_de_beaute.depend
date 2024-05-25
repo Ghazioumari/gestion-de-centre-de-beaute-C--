@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1680626831 source:c:\users\dell\desktop\c++\centre_de_beaute\main.cpp
+	<iostream>
+	"cente_de_beaute.h"
+	"client.h"
+	"service.h"
+	"Employer.h"
+	"personne.h"
+	"Facial_service.h"
+	"Rendez_vous.h"
+	"hair_cut_femme.h"
+	"hair_cut_homme.h"
+	"hair_cut_service.h"
+
+1680626301 c:\users\dell\desktop\c++\centre_de_beaute\include\cente_de_beaute.h
+	<iostream>
+	<string>
+	"personne.h"
+	"personne.h"
+	<typeinfo>
+	"Employer.h"
+	"client.h"
+	<vector>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\personne.h
+	<iostream>
+	<string>
+
+1680626410 c:\users\dell\desktop\c++\centre_de_beaute\include\employer.h
+	"personne.h"
+
+1680626389 c:\users\dell\desktop\c++\centre_de_beaute\include\client.h
+	"Rendez_vous.h"
+	"service.h"
+	"Facial_service.h"
+	"hair_cut_femme.h"
+	"hair_cut_homme.h"
+	"personne.h"
+	"Rendez_vous.h"
+	<vector>
+	<string>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\rendez_vous.h
+	<iostream>
+	<string>
+	"ostream"
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\service.h
+	<iostream>
+	<string>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\facial_service.h
+	<ostream>
+	<istream>
+	<iostream>
+	"istream"
+	"ostream"
+	<string>
+	"service.h"
+	<string>
+	<vector>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\hair_cut_femme.h
+	<iostream>
+	"hair_cut_service.h"
+	<string>
+	<vector>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\hair_cut_service.h
+	<iostream>
+	"service.h"
+	<string>
+	<vector>
+
+1680626831 c:\users\dell\desktop\c++\centre_de_beaute\include\hair_cut_homme.h
+	<iostream>
+	"hair_cut_service.h"
+	<vector>
+	<string>
+
+1680626386 source:c:\users\dell\desktop\c++\centre_de_beaute\src\client.cpp
+	"client.h"
+	<typeinfo>
+	<iostream>
+	<string>
+	"personne.h"
+
+1680626427 source:c:\users\dell\desktop\c++\centre_de_beaute\src\employer.cpp
+	"Employer.h"
+
